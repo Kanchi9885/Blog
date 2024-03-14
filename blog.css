@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bgimg{
+    background-image: url('https://static.wikia.nocookie.net/hindi-dubbing/images/9/95/Pawan_Kalyan_in_Agnyaathavaasi.jpg/revision/latest?cb=20230924203838');
+    width:100vw;
+    height:100vh;
+    background-position:center;
+    opacity: 0.9;
+    
+}.heading{
+    color: red;
+    text-transform: capitalize;
+    font-size: 60px;
+    font-weight: bold;
+}
+.para{
+    color: black;
+    text-transform: capitalize;
+    font-size: 25px;
+    width: 35%;
+}
+.sec1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 6%;
+}
+.section-3{
+    width: 90%;
+    margin-left: 5%;
+}
+.table{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 3%;
+    margin-bottom: 5%;    
+}
+.awards{
+    text-align: center;
+    margin-top: 5%;
+    color: red;
+}
+.personal-life{
+    text-align: center;
+    margin-top: 5%;
+    color: red;
+    margin-bottom: 2%;
+}
+.browse{
+    background-color: red;
+    border: 2px black;
+    color: black    ;
+}
+.browse:hover{
+    background-color: white;
+    color: red;
+    border: 2px red;
+}
+.text-1{
+    font-size: 19px;
+}
+.pl-para{
+    font-size: 20px;
+}
+.cards-1{
+    width: 90%;
+    margin-left: 5%;
+}
+.pl-main{
+    width: 90%;
+    margin-left: 5%;
+}
+.image-1{
+    margin-top: 8%;
+}
+.youtube-video{
+    margin-left: 10%;
+    margin-bottom: 3%;
+    margin-top: 5%;
+}
+.political-speech{
+    text-align: center;
+    color: red;
+    margin-bottom: 2%;
+}
+.bottom{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
